@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Currently working on my echo project - mobile application for music search and playback from multiple music subscription services
 - 👨‍🎓 Currently learning NextJS, GraphQL, Redis and dive deeper into React Native to utilize this tech stack within my echo project
 - 🕵️‍♂️ Looking for a Full Stack || React Native Developer position in Berlin or remote
-![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yprots/)![image]({BadgeURLHere})
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yprots/)![image]({BadgeURLHere})
 
 ### Tech Stack 🔧
 
