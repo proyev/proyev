@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=proyev&show_icons=true&theme=synthwave)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=proyev&show_icons=true&theme=synthwave)\
+
+
 ![codewars rank](https://www.codewars.com/users/proyev/badges/large)
 
 - 👨‍💻 Currently working on my echo project - mobile application for music search and playback from multiple music subscription services
