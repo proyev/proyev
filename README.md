@@ -4,8 +4,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=proyev&show_icons=true&theme=synthwave)
 
 
-![codewars rank](https://www.codewars.com/users/proyev/badges/large)
-
 - 👨‍💻 Currently working on my echo project - mobile application for music search and playback from multiple music subscription services
 - 👨‍🎓 Currently learning NextJS, GraphQL, Redis and dive deeper into React Native to utilize this tech stack within my echo project
 - 🕵️‍♂️ Looking for a Full Stack || React Native Developer position in Berlin or remote
