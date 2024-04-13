@@ -55,7 +55,7 @@ No, it's not a typo or just a placeholder, and yes, figuring out a proper name f
 
 Introducing, Lorem Ipsum - a web application([client](https://github.com/proyev/LoremIpsum-Client) & [server](https://github.com/proyev/LoremIpsum-Server)) designed to streamline the job-finding process for users. The platform encompasses CV generation, interview preparation, and application tracking. Users can create, customize, and refine their CVs using our built-in ATS system, which analyzes their profiles and offers feedback for improvement. There is also OpenAI GPT-3 integrated to help users prepare for interviews.
 
-[![Application walkthrough]](https://www.youtube.com/watch?v=oDUdlnxxFIA) 
+[Application walkthrough video](https://www.youtube.com/watch?v=oDUdlnxxFIA) 
 
 P.S. back then GPT-4 had not yet been released, soo, a bit of a legacy here:)
 
