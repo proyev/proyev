@@ -61,17 +61,17 @@ Back then GPT-4 had not yet been released, soo, a bit of a legacy here:)
 
 An NLP-based postcard generator, that uses [BERT](!https://en.wikipedia.org/wiki/BERT_(language_model)) under the hood and has a client written in Angular to generate postcards in different styles for various events. The model was pre-trained on William Shakespeare books, and different other data to generate different results.
 
-### total.recall
+### [total.recall](https://github.com/proyev/totall.recall)
 
-total.recall - is a small yet fun tool to recall your knowledge in HTML, CSS and JavaScript. Available soon...
+[total.recall](https://github.com/proyev/totall.recall) - is a small yet fun tool to recall your knowledge in HTML, CSS and JavaScript. Available soon...
 
-### termin.finder
+### [termin.finder](https://github.com/proyev/termin_finder)
 
-termin.finder - finding a government appointment in Berlin can be a nightmare. To ease this hell at least for myself, an extension is currently under development. MVP - get a Anmeldung and related. Ideal goal - to provide a simple option to find an appointment for everything provided.
+[termin.finder](https://github.com/proyev/termin_finder) - finding a government appointment in Berlin can be a nightmare. To ease this hell at least for myself, an extension is currently under development. MVP - get a Anmeldung and related. Ideal goal - to provide a simple option to find an appointment for everything provided.
 
-### highlander
+### [highlander](https://github.com/proyev/highlander)
 
-There ~~can~~ will be only one - only one place to figure out, replicate, visualize and explain in simple language all the important algorithms and data structures. 
+There ~~can~~ will be only one - only one place to figure out, replicate, visualize and explain all the important algorithms and data structures in simple language.
 
 ## Let's connect 🤝
 
