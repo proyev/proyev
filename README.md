@@ -1,15 +1,12 @@
 # Hi there, I'm Yevhen 👋
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=proyev&show_icons=true&theme=synthwave)
-
 
 - 🇩🇪 Based in Berlin, Germany
-- 👷 I'm a software engineer at ![Autobahn-Security](https://autobahn-security.com/) by day and freelancing by night
+- 👷 I'm a software engineer at [Autobahn-Security](https://autobahn-security.com/) by day and freelancing by night
 - 👨‍💻 Most of the time code in JavaScript/TypeScript, less often in Python.
-- 
 
-## Tech Stack 🔧
+## Tech stack 🔧
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
