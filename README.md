@@ -55,7 +55,9 @@ No, it's not a typo or just a placeholder, and yes, figuring out a proper name f
 
 Introducing, Lorem Ipsum - a web application([client](https://github.com/proyev/LoremIpsum-Client) & [server](https://github.com/proyev/LoremIpsum-Server)) designed to streamline the job-finding process for users. The platform encompasses CV generation, interview preparation, and application tracking. Users can create, customize, and refine their CVs using our built-in ATS system, which analyzes their profiles and offers feedback for improvement. There is also OpenAI GPT-3 integrated to help users prepare for interviews.
 
-Back then GPT-4 had not yet been released, soo, a bit of a legacy here:)
+[![Application walkthrough]](https://www.youtube.com/watch?v=oDUdlnxxFIA) 
+
+P.S. back then GPT-4 had not yet been released, soo, a bit of a legacy here:)
 
 ### Whishing well
 
@@ -67,7 +69,10 @@ An NLP-based postcard generator, that uses [BERT](!https://en.wikipedia.org/wiki
 
 ### [termin.finder](https://github.com/proyev/termin_finder)
 
-[termin.finder](https://github.com/proyev/termin_finder) - finding a government appointment in Berlin can be a nightmare. To ease this hell at least for myself, an extension is currently under development. MVP - get a Anmeldung and related. Ideal goal - to provide a simple option to find an appointment for everything provided.
+[termin.finder](https://github.com/proyev/termin_finder) - finding a government appointment in Berlin can be a nightmare. To ease this hell at least for myself, an extension is currently under development. 
+
+MVP - get a Anmeldung and related.
+Ideal goal - to provide a simple option to find an appointment for everything provided.
 
 ### [highlander](https://github.com/proyev/highlander)
 
