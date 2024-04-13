@@ -1,5 +1,5 @@
 # Hi there, I'm Yevhen 👋
----
+
 - 🇩🇪 Based in Berlin, Germany.
 - 👷 I'm a software engineer at [Autobahn-Security](https://autobahn-security.com/) by day and freelancing by night.
 - 👨‍💻 Most of the time code in JavaScript/TypeScript, less often in Python.
@@ -8,7 +8,7 @@
 My CV: Yevhen Prots.pdf
 
 ## Tech stack 🔧
----
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ My CV: Yevhen Prots.pdf
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 ## Some of my projects 🚧
----
+
 ### LoremIpsum
 
 No, it's not a typo or just a placeholder, and yes, figuring out a proper name for your variables is not the only difficulty...
