@@ -49,7 +49,7 @@ My CV: Yevhen Prots.pdf
 
 ## Some of my projects 🚧
 
-### LoremIpsum
+### Lorem Ipsum
 
 No, it's not a typo or just a placeholder, and yes, figuring out a proper name for your variables is not the only difficulty...
 
