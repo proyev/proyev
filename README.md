@@ -1,13 +1,14 @@
 # Hi there, I'm Yevhen 👋
-
-
-
-- 🇩🇪 Based in Berlin, Germany
-- 👷 I'm a software engineer at [Autobahn-Security](https://autobahn-security.com/) by day and freelancing by night
+---
+- 🇩🇪 Based in Berlin, Germany.
+- 👷 I'm a software engineer at [Autobahn-Security](https://autobahn-security.com/) by day and freelancing by night.
 - 👨‍💻 Most of the time code in JavaScript/TypeScript, less often in Python.
+- 🪩 When not coding, you can find me biking on the streets of Berlin, on a wall bouldering, listening to or looking for some vinyl.
+
+My CV: Yevhen Prots.pdf
 
 ## Tech stack 🔧
-
+---
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -45,6 +46,32 @@
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+## Some of my projects 🚧
+---
+### LoremIpsum
+
+No, it's not a typo or just a placeholder, and yes, figuring out a proper name for your variables is not the only difficulty...
+
+Introducing, Lorem Ipsum - a web application([client](https://github.com/proyev/LoremIpsum-Client) & [server](https://github.com/proyev/LoremIpsum-Server)) designed to streamline the job-finding process for users. The platform encompasses CV generation, interview preparation, and application tracking. Users can create, customize, and refine their CVs using our built-in ATS system, which analyzes their profiles and offers feedback for improvement. There is also OpenAI GPT-3 integrated to help users prepare for interviews.
+
+Back then GPT-4 had not yet been released, soo, a bit of a legacy here:)
+
+### Whishing well
+
+An NLP-based postcard generator, that uses [BERT](!https://en.wikipedia.org/wiki/BERT_(language_model)) under the hood and has a client written in Angular to generate postcards in different styles for various events. The model was pre-trained on William Shakespeare books, and different other data to generate different results.
+
+### total.recall
+
+total.recall - is a small yet fun tool to recall your knowledge in HTML, CSS and JavaScript. Available soon...
+
+### termin.finder
+
+termin.finder - finding a government appointment in Berlin can be a nightmare. To ease this hell at least for myself, an extension is currently under development. MVP - get a Anmeldung and related. Ideal goal - to provide a simple option to find an appointment for everything provided.
+
+### highlander
+
+There ~~can~~ will be only one - only one place to figure out, replicate, visualize and explain in simple language all the important algorithms and data structures. 
 
 ## Let's connect 🤝
 
