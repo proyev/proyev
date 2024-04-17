@@ -5,7 +5,7 @@
 - 👨‍💻 Most of the time code in JavaScript/TypeScript, less often in Python.
 - 🪩 When not coding, you can find me biking on the streets of Berlin, on a wall bouldering, listening to or looking for some vinyl.
 
-My CV: [Yevhen Prots.pdf](https://raw.githubusercontent.com/proyev/proyev/main/Yevhen_Prots-CV.pdf)
+#### My CV: [Yevhen Prots.pdf](https://raw.githubusercontent.com/proyev/proyev/main/Yevhen_Prots-CV.pdf)
 
 ## Tech stack 🔧
 
