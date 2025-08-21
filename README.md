@@ -1,9 +1,9 @@
 # Hi there, I'm Yevhen 👋
 
-- 🇩🇪 Based in Berlin, Germany.
-- 👷 I'm a software engineer at [Autobahn-Security](https://autobahn-security.com/) by day and freelancing by night.
-- 👨‍💻 Most of the time code in JavaScript/TypeScript, less often in Python.
-- 🪩 When not coding, you can find me biking on the streets of Berlin, on a wall bouldering, listening to or looking for some vinyl.
+- 🇩🇪 Based in Berlin, Germany
+- 👷 I'm a software engineer at [Autobahn-Security](https://autobahn-security.com/) by day and freelancing by night
+- 👨‍💻 Spend most time in JS/TS land, resorting to Python when required, occasionally building AI workflows and integrations
+- 🪩 When not coding, you can find me hunting for vinyl, bouldering, biking Berlin streets, and getting into all sorts of trouble
 
 #### My CV: [Yevhen Prots.pdf](https://raw.githubusercontent.com/proyev/proyev/main/Yevhen_Prots-CV.pdf)
 
