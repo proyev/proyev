@@ -55,37 +55,25 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-## Some of my projects 🚧
+## Things I build 🚧
 
-### Lorem Ipsum
+**Current & upcoming:**
+* **[algo.visual](https://github.com/proyev/algo.visual)** - visualising algorithms and data structures
+* **[total.recall](https://github.com/proyev/totall.recall)** - is a small yet fun tool to recall your knowledge in HTML, CSS and JS
+* **[termin.finder](https://github.com/proyev/termin.finder)** - browser extension for Berlin government appointments because the official system is broken
+* **Lorem Ipsum** - job-finding platform with CV generation and AI interview prep ([client](https://github.com/proyev/LoremIpsum-Client) & [server](https://github.com/proyev/LoremIpsum-Server)).  [Application walkthrough video](https://www.youtube.com/watch?v=oDUdlnxxFIA)
 
-No, it's not a typo or just a placeholder, and yes, figuring out a proper name for your variables is not the only difficulty...
-
-Introducing, Lorem Ipsum - a web application([client](https://github.com/proyev/LoremIpsum-Client) & [server](https://github.com/proyev/LoremIpsum-Server)) designed to streamline the job-finding process for users. The platform encompasses CV generation, interview preparation, and application tracking. Users can create, customize, and refine their CVs using our built-in ATS system, which analyzes their profiles and offers feedback for improvement. There is also OpenAI GPT-3 integrated to help users prepare for interviews.
-
-[Application walkthrough video](https://www.youtube.com/watch?v=oDUdlnxxFIA) 
-
-P.S. back then GPT-4 had not yet been released, soo, a bit of a legacy here:)
-
-### Whishing well
-
-An NLP-based postcard generator, that uses [BERT](!https://en.wikipedia.org/wiki/BERT_(language_model)) under the hood and has a client written in Angular to generate postcards in different styles for various events. The model was pre-trained on William Shakespeare books, and different other data to generate different results.
-
-### [total.recall](https://github.com/proyev/totall.recall)
-
-[total.recall](https://github.com/proyev/totall.recall) - is a small yet fun tool to recall your knowledge in HTML, CSS and JavaScript. Available soon...
-
-### [termin.finder](https://github.com/proyev/termin_finder)
-
-[termin.finder](https://github.com/proyev/termin_finder) - finding a government appointment in Berlin can be a nightmare. To ease this hell at least for myself, an extension is currently under development. 
-
-MVP - get a Anmeldung and related.
-Ideal goal - to provide a simple option to find an appointment for everything provided.
-
-### [highlander](https://github.com/proyev/highlander)
-
-There ~~can~~ will be only one - only one place to figure out, replicate, visualize and explain all the important algorithms and data structures in simple language.
-
+**Learning journey:**
+* **[Uni](https://github.com/proyev/uni_projects)**
+  * **connect-four-bot** - Raspberry Pi-based robot with interactive gameplay in Python
+  * **Battleships** - multiplayer C++ game with UI
+  * **Wishing well** - NLP postcard generator (Python) using BERT, pre-trained on Shakespeare and other texts
+  * **Lab automation system** - OpenCV-based Python computer vision for robotic manipulator control and lab process automation (thesis research)
+* **[Flashcards app](https://github.com/proyev/flashcards)** - first dive into HTML/CSS
+* **[Virtual piano](https://github.com/proyev/virtual-piano)** - browser-based piano for vanilla JS event handling practice
+* **[Cipher bot](https://github.com/proyev/chat-bot)** - pre-bootcamp cryptography challenge project
+* **[Minesweeper](https://github.com/proyev/minesweeper)** - first React-based project - minesweeper game
+  
 ## Let's connect 🤝
 
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yprots/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prots.yevhen@gmail.com)
