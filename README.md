@@ -5,7 +5,7 @@
 - 👨‍💻 Spend most time in JS/TS land, resorting to Python when required, occasionally building AI workflows and integrations
 - 🪩 When not coding, you can find me hunting for vinyl, bouldering, biking Berlin streets, and getting into all sorts of trouble
 
-#### My CV: [Yevhen Prots.pdf](https://raw.githubusercontent.com/proyev/proyev/main/Yevhen_Prots-CV.pdf)
+#### My CV: [Yevhen Prots.pdf](https://raw.githubusercontent.com/proyev/proyev/main/Yevhen-Prots_CV.pdf)
 
 ## Tech stack 🔧
 
